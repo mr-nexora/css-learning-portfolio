@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test1</title>
+<style>
+    
+</style>
+</head>
+
+<body>
+
+    <h2></h2>
+    <p class="p1">This is a sample Text</p>
+    <p class="p2">This is a sample Text</p>
+
+</body>
+</html>
