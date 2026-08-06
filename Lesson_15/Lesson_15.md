@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Sahan%20Udara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://mr-nexora.github.io/mr-nexora-personal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -36,14 +36,14 @@ This repository showcases my journey of learning modern CSS, including layouts, 
 
 # 📂 Repository Overview
 
-| 📌 Information | Details |
-|:---------------|:--------|
-| 👨‍💻 Author | **T.M.S.U. Thennakoon (Sahan Udara)** |
-| 🎓 Program | Computer Science Undergraduate |
-| 💻 Technology | CSS3 |
-| 📚 Learning Method | Daily Lessons & Hands-on Practice |
-| 🎯 Goal | Become a Professional Full Stack Developer |
-| 📅 Repository Started | 2026 |
+| 📌 Information        | Details                                    |
+| :-------------------- | :----------------------------------------- |
+| 👨‍💻 Author             | **T.M.S.U. Thennakoon (Sahan Udara)**      |
+| 🎓 Program            | Computer Science Undergraduate             |
+| 💻 Technology         | CSS3                                       |
+| 📚 Learning Method    | Daily Lessons & Hands-on Practice          |
+| 🎯 Goal               | Become a Professional Full Stack Developer |
+| 📅 Repository Started | 2026                                       |
 
 ---
 
@@ -71,7 +71,7 @@ This repository showcases my journey of learning modern CSS, including layouts, 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://mr-nexora.github.io/mr-nexora-personal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome"/>
 </a>
 
@@ -87,7 +87,6 @@ This repository is built through continuous practice using educational resources
 - MDN Web Docs
 - freeCodeCamp
 
-
 ---
 
 # ⚖️ Copyright
@@ -99,6 +98,7 @@ This repository is built through continuous practice using educational resources
 > You are welcome to explore the code and learn from it. However, copying, redistributing, or presenting this work as your own without permission is not allowed.
 
 ---
+
 <div align="center">
 
 ⭐ If you find this repository useful, consider giving it a Star.
@@ -108,6 +108,7 @@ Happy Coding! 🚀
 </div>
 
 ---
+
 # Lesson 15: CSS Text Styling and Formatting
 
 CSS provides an extensive set of properties for formatting text, controlling colors, alignments, decorations, transformations, letter/word spacing, and shadows.

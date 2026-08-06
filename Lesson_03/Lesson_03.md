@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Sahan%20Udara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://mr-nexora.github.io/mr-nexora-personal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -71,7 +71,7 @@ This repository showcases my journey of learning modern CSS, including layouts, 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://mr-nexora.github.io/mr-nexora-personal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome"/>
 </a>
 
