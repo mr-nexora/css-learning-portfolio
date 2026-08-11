@@ -6,7 +6,8 @@
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Lessons-15%2B-2196F3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Language-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 
 <br><br>
 
